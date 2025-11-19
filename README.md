@@ -9,7 +9,7 @@ I'm a passionate WordPress developer who loves building plugins that solve real-
 - 📍 I'm based in **Pakistan**
 - 🌐 See my portfolio at [Wordpress.org](https://profiles.wordpress.org/ahsangadit/)
 - 📧 You can contact me at **ahsan.amin334@gmail.com**
-- 💼 I'm currently working at [WPEXPERTS](https://wpexperts.io/)
+- 💼 I'm currently working at [WPEXPERTS](https://profiles.wordpress.org/wpexpertsio/)
 - 🌱 I'm currently learning **Advanced WordPress Development, Modern PHP & Gutenberg Block Development**
 - 🤝 I'm open to collaborating on **WordPress plugins and themes**
 - 💬 Ask me about **WordPress, PHP, Plugin Development**
