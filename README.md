@@ -8,8 +8,8 @@ I'm a passionate WordPress developer who loves building plugins that solve real-
 
 - 📍 I'm based in **Pakistan**
 - 🌐 See my portfolio at [Wordpress.org](https://profiles.wordpress.org/ahsangadit/)
-- 📧 You can contact me at **[ahsan.amin334@gmail.com]**
-- 💼 I'm currently working at [WPEXPERTS]**https://wpexperts.io/**
+- 📧 You can contact me at **ahsan.amin334@gmail.com**
+- 💼 I'm currently working at **[WPEXPERTS]**(https://wpexperts.io/)
 - 🌱 I'm currently learning **Advanced WordPress Development, Modern PHP & Gutenberg Block Development**
 - 🤝 I'm open to collaborating on **WordPress plugins and themes**
 - 💬 Ask me about **WordPress, PHP, Plugin Development**
@@ -59,26 +59,12 @@ I'm a passionate WordPress developer who loves building plugins that solve real-
 
 ---
 
-## 💼 Featured Projects
-
-### [Viable Support for Zendesk](https://github.com/ahsangadit/viable-support-for-zendesk)
-WordPress plugin for integrating Zendesk support system.
-
-
----
-
 ## 🤝 Contributing to Post SMTP
 
 I'm actively contributing to **Post SMTP**, a complete SMTP solution for WordPress with logs, alerts, backup SMTP & mobile app support. With over 400,000+ active installations, it's one of the most popular WordPress SMTP plugins.
 
 - 🔌 [Post SMTP on WordPress.org](https://wordpress.org/plugins/post-smtp/)
 - 💻 [Post SMTP on GitHub](https://github.com/wpexpertsio/Post-SMTP/)
-
----
-
-## 🤝 Contributing
-
-I'm always open to collaborating on WordPress projects. Feel free to reach out if you have an interesting project or idea!
 
 ---
 
