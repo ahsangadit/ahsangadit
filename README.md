@@ -6,10 +6,10 @@ I'm a passionate WordPress developer who loves building plugins that solve real-
 
 ### About Me
 
-- 📍 I'm based in **[Your Location]**
-- 🌐 See my portfolio at [ahsangadit.com](http://ahsangadit.com/)
-- 📧 You can contact me at **[your-email@example.com]**
-- 💼 I'm currently working at **Viablecube**
+- 📍 I'm based in **Pakistan**
+- 🌐 See my portfolio at [Wordpress.org](https://profiles.wordpress.org/ahsangadit/)
+- 📧 You can contact me at **[ahsan.amin334@gmail.com]**
+- 💼 I'm currently working at [WPEXPERTS]**https://wpexperts.io/**
 - 🌱 I'm currently learning **Advanced WordPress Development, Modern PHP & Gutenberg Block Development**
 - 🤝 I'm open to collaborating on **WordPress plugins and themes**
 - 💬 Ask me about **WordPress, PHP, Plugin Development**
@@ -17,11 +17,10 @@ I'm a passionate WordPress developer who loves building plugins that solve real-
 
 ### 🔗 Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-ahsangadit.com-21759B?style=flat-square&logo=wordpress&logoColor=white)](http://ahsangadit.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahsan--muhammad--amin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-muhammad-amin)
-[![Twitter](https://img.shields.io/badge/Twitter-@Ahsangadit555-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Ahsangadit555)
 [![WordPress](https://img.shields.io/badge/WordPress-ahsangadit-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/ahsangadit/)
 [![GitHub](https://img.shields.io/badge/GitHub-ahsangadit-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahsangadit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahsan--muhammad--amin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-muhammad-amin)
+[![Twitter](https://img.shields.io/badge/Twitter-@Ahsangadit555-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Ahsangadit555)
 
 ---
 
@@ -46,9 +45,7 @@ I'm a passionate WordPress developer who loves building plugins that solve real-
 
 ## 📦 Published Plugins on WordPress.org
 
-- **[WP User Registration Approval](https://wordpress.org/plugins/wp-user-registration-approval/)** - WordPress plugin for managing user registrations with an approval process.
-- **[Viable Support for Zendesk](https://github.com/ahsangadit/viable-support-for-zendesk)** - Integration plugin for Zendesk support system.
-- **[PostView Table](https://github.com/ahsangadit/PostView-Table)** - WordPress plugin for managing post views in a table format.
+- **[Viable Support for Zendesk](https://wordpress.org/plugins/viable-support-for-zendesk/)** - Integration plugin for Zendesk support system.
 
 > 💡 *More plugins coming soon!*
 
@@ -62,50 +59,26 @@ I'm a passionate WordPress developer who loves building plugins that solve real-
 
 ---
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 💼 Featured Projects
 
 ### [Viable Support for Zendesk](https://github.com/ahsangadit/viable-support-for-zendesk)
 WordPress plugin for integrating Zendesk support system.
 
-### [WP User Registration Approval](https://github.com/ahsangadit/wp-user-registration-approval)
-WordPress plugin for managing user registrations with an approval process.
-
-### [PostView Table](https://github.com/ahsangadit/PostView-Table)
-WordPress plugin for managing and displaying post views in a table format.
 
 ---
 
-## 📝 Writing
+## 🤝 Contributing to Post SMTP
 
-I write regularly about WordPress development, plugin creation, and web development best practices. Check out my articles and tutorials on my website and blog.
+I'm actively contributing to **Post SMTP**, a complete SMTP solution for WordPress with logs, alerts, backup SMTP & mobile app support. With over 400,000+ active installations, it's one of the most popular WordPress SMTP plugins.
 
-- 🌐 [My Website](http://ahsangadit.com/)
-- 📝 [WordPress.org Profile](https://profiles.wordpress.org/ahsangadit/)
+- 🔌 [Post SMTP on WordPress.org](https://wordpress.org/plugins/post-smtp/)
+- 💻 [Post SMTP on GitHub](https://github.com/wpexpertsio/Post-SMTP/)
 
 ---
 
 ## 🤝 Contributing
 
 I'm always open to collaborating on WordPress projects. Feel free to reach out if you have an interesting project or idea!
-
----
-
-## 📈 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahsangadit&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ahsangadit&theme=radical)
 
 ---
 
