@@ -50,15 +50,6 @@ I'm a passionate WordPress developer who loves building plugins that solve real-
 > 💡 *More plugins coming soon!*
 
 ---
-
-## 📊 GitHub Stats
-
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsangadit&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsangadit&layout=compact&theme=radical)
-
----
-
 ## 🤝 Contributing to Post SMTP
 
 I'm actively contributing to **Post SMTP**, a complete SMTP solution for WordPress with logs, alerts, backup SMTP & mobile app support. With over 400,000+ active installations, it's one of the most popular WordPress SMTP plugins.
