@@ -46,6 +46,7 @@ I'm a passionate WordPress developer who loves building plugins that solve real-
 ## 📦 Published Plugins on WordPress.org
 
 - **[Viable Support for Zendesk](https://wordpress.org/plugins/viable-support-for-zendesk/)** - Integration plugin for Zendesk support system.
+- **[Viable URL Media Uploader](https://wordpress.org/plugins/viable-url-media-uploader/)** - Import media files directly from URLs into your WordPress media library.
 
 > 💡 *More plugins coming soon!*
 
