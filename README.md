@@ -1,8 +1,8 @@
 # Hi, I'm Ahsan Amin 👋
 
-## Sr. WordPress Developer & Plugin Builder
+## AI Prompt Engineer | Full-Stack Developer
 
-I'm a passionate WordPress developer who loves building plugins that solve real-world problems. With extensive experience in WordPress plugin development, PHP, and modern web technologies, I create solutions that enhance the WordPress ecosystem and help developers build better websites.
+I build intelligent solutions, AI-powered applications, and WordPress plugins that solve real-world problems. With expertise in WordPress, PHP, JavaScript, AI & LLMs, and CRM systems, I create tools and workflows that improve efficiency and deliver real impact.
 
 ### About Me
 
